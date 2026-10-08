@@ -11,7 +11,7 @@ Export to JSON → Convert CSV data into JSON format (products.json).
 Display JSON → Read and print JSON data using the native json module.
 Exit Option → Cleanly terminate the program.
 🔹 Data Schema
-Each product record includes:
+Each product record includes
 Product ID
 Product Name
 Category
